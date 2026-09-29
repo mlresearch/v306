@@ -1,0 +1,120 @@
+---
+booktitle: Proceedings of the 43rd International Conference on Machine Learning
+shortname: ICML
+volume: '306'
+year: '2026'
+start: &1 2026-07-06
+end: 2026-07-11
+published: 2026-09-29
+conference_number: '43'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ICML-2026
+month: 0
+cycles: false
+bibtex_editor: Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh
+  and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong,
+  Hanze and Bietti, Alberto
+editor:
+- given: Tong
+  family: Zhang
+- given: Miroslav
+  family: Dudik
+- given: Martin
+  family: Jaggi
+- given: Alekh
+  family: Agarwal
+- given: Sharon
+  family: Li
+- given: Dale
+  family: Schuurmans
+- given: Jerry
+  family: Zhu
+- given: Felix
+  family: Berkenkamp
+- given: Hanze
+  family: Dong
+- given: Alberto
+  family: Bietti
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 43rd International Conference on Machine Learning
+    Held in Seoul, South Korea on 06-11 July 2026
+
+  Published as Volume 306 by the Proceedings of Machine Learning Research on 29 September 2026.
+
+  Volume Edited by:
+    Tong Zhang
+    Miroslav Dudik
+    Martin Jaggi
+    Alekh Agarwal
+    Sharon Li
+    Dale Schuurmans
+    Jerry Zhu
+    Felix Berkenkamp
+    Hanze Dong
+    Alberto Bietti
+
+  Series Editors:
+    Tegan Emerson
+    Hoel Kervadec
+    Neil D. Lawrence
+date_str: 06--11 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v306"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v306
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v306
+email: ''
+conference:
+  name: International Conference on Machine Learning
+  url: https://icml.cc/Conferences/2026
+  location: Seoul, South Korea
+  dates:
+  - *1
+  - 2026-07-07
+  - 2026-07-08
+  - 2026-07-09
+  - 2026-07-10
+  - 2026-07-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: icml26_clean.bib
+# Site settings
+# Original source:  icml26_clean.bib
